@@ -1,0 +1,11 @@
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\bin\Debug\netcoreapp2.0\sampleDotNetApi.deps.json
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\bin\Debug\netcoreapp2.0\sampleDotNetApi.runtimeconfig.json
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\bin\Debug\netcoreapp2.0\sampleDotNetApi.runtimeconfig.dev.json
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\bin\Debug\netcoreapp2.0\sampleDotNetApi.dll
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\bin\Debug\netcoreapp2.0\sampleDotNetApi.pdb
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\obj\Debug\netcoreapp2.0\sampleDotNetApi.csproj.CoreCompileInputs.cache
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\obj\Debug\netcoreapp2.0\sampleDotNetApi.AssemblyInfoInputs.cache
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\obj\Debug\netcoreapp2.0\sampleDotNetApi.AssemblyInfo.cs
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\obj\Debug\netcoreapp2.0\sampleDotNetApi.dll
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\obj\Debug\netcoreapp2.0\sampleDotNetApi.pdb
+C:\Projects\playground\sampleDotNetApi\sampleDotNetApi\obj\Debug\netcoreapp2.0\sampleDotNetApi.csprojResolveAssemblyReference.cache
